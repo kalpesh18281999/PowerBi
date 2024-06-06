@@ -1,4 +1,4 @@
-🚀 Turning Data into Insights:
+## 🚀 Turning Data into Insights 🚀
 
 I am thrilled to share my Power BI dashboard created for the  #codebasicsresumeprojectchallenge by CodeBasics. This project focused on Supply Chain Analytics for a FMCG manufacturer, analyzing critical KPIs to improve service levels and customer satisfaction.
 
